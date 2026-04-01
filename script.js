@@ -1,3 +1,4 @@
+//updated
 // State Management
 let tasks = JSON.parse(localStorage.getItem('smart-tasks')) || [];
 let currentFilter = 'all';
