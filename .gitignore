@@ -1,0 +1,27 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node (Just in case you add npm packages later for tooling)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files (if you ever use a bundler)
+dist/
+build/
+.env
